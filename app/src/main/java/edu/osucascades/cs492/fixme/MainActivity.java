@@ -1,4 +1,4 @@
-package osucascades.cs492.fixme;
+package edu.osucascades.cs492.fixme;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
