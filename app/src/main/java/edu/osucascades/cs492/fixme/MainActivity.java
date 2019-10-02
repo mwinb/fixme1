@@ -9,6 +9,8 @@ import android.widget.Toast;
 public class Mainactivity extends AppCompatActivity {
 
     private Button mFalseButton;
+    private Button mTrueButton;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
