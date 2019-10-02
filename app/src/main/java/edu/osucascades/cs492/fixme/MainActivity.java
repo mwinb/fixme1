@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-public class Mainactivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
     private Button mFalseButton;
     private Button mTrueButton;
